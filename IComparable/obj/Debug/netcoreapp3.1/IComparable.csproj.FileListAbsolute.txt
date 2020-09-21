@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.exe
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.deps.json
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\bin\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb
+C:\Users\Admin\Desktop\Codegym\abstract1\IComparable\obj\Debug\netcoreapp3.1\IComparable.genruntimeconfig.cache
