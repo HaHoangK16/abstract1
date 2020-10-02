@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.exe
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.deps.json
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.runtimeconfig.json
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.dll
+C:\Users\hntdahta\source\repos\interface-Resizeable\bin\Debug\netcoreapp3.1\interface-Resizeable.pdb
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.dll
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.pdb
+C:\Users\hntdahta\source\repos\interface-Resizeable\obj\Debug\netcoreapp3.1\interface-Resizeable.genruntimeconfig.cache
